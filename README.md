@@ -9,16 +9,13 @@ This project implements a **secure routing protocol for Vehicular Ad Hoc Network
 
 ## 📁 Project Structure
 
-```
 
-.
 ├── vehicles.py         # Vehicle logic, hashing, signing, and signature verification
 ├── simulation.py      # Main simulation: movement, message passing, and attacks
 ├── plot.py             # Hash time visualization
 ├── results/            # Auto-generated outputs (CSV & plots)
 └── README.md           # You're reading it
 
-```
 
 ---
 
